@@ -1,0 +1,9 @@
+# AES Block Cipher – Educational Notebook
+
+This repository contains a **didactic Jupyter notebook** on the **AES-128 block cipher**, focused on understanding how the algorithm works internally and how its security properties emerge.
+
+## What you’ll find
+- AES internal structure (SubBytes, ShiftRows, MixColumns, AddRoundKey)
+- Key expansion overview
+- Modes of operation (ECB, CBC, CFB, OFB)
+- Simple experiments on **diffusion and confusion** using bit flips and Hamming distance
