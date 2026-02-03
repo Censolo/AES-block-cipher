@@ -1,6 +1,6 @@
 # AES Block Cipher – Educational Notebook
 
-This repository contains a **didactic Jupyter notebook** on the **AES-128 block cipher**, focused on understanding how the algorithm works internally and how its security properties emerge.
+This repository contains a **didactic Jupyter notebook** for the development of the **AES-128 block cipher**, focused on understanding how the algorithm works internally and how its security properties emerge.
 
 ## What you’ll find
 - AES internal structure (SubBytes, ShiftRows, MixColumns, AddRoundKey)
